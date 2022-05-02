@@ -47,7 +47,7 @@ a {
 .section-heading .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3a8bcd;
+	background-color: #090b0c;
 }
 .section-heading h1 {
 	font-size: 22px;
@@ -58,7 +58,7 @@ a {
 
 /* Pre Header Style */
 #pre-header {
-	background-color: #3a8bcd;
+	background-color: #0e0f0f;
 	text-align: center;
 }
 #pre-header span {

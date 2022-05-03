@@ -458,7 +458,7 @@ a {
 	margin-top: 20px;
 }
 #carousel .slides li {
-	width: 150px!important;
+	width: 120px!important;
 }
 .single-product .right-content h4 {
 	font-size: 17px;
@@ -474,6 +474,7 @@ a {
 .single-product .right-content p {
 	margin-top: 20px;
 	margin-bottom: 30px;
+	width: 400px
 }
 .single-product .right-content span {
 	font-size: 14px;

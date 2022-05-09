@@ -162,11 +162,12 @@ a {
 }
 
 /* About Style */
+
 .about-section {
 	background-color: rgba(248, 248, 248, 0.7);
 	padding: 30px;
-	margin-right: 400px;
-	margin-left: 400px;
+	margin-right: 600px;
+	margin-left: 600px;
 	margin-top: 80px;
 	border: 1px solid #eee;
 }

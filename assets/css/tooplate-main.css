@@ -10,6 +10,13 @@ body {
 	font-family: 'Roboto', sans-serif;
 	transition: all 0.5s;
 }
+
+.logoClass {
+	width: auto;
+	height: 76px;
+	margin-top: 1px
+}
+
 p {
 	margin-bottom: 0px;
 	font-size: 14px;
